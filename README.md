@@ -1,13 +1,13 @@
 ### Hello World, I'm Magariou  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
+ <img align="right" alt="pcpic" width="500" height="320" src="https://github.com/magariou/magariou/blob/main/laptop-15%20(1).png" />
 
 ## I'm currently a computer science undergrad at Georgia Southern University!!
 - ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working on landing my first internship.
+- 🌱 I’m currently learning React js
+- 👯 I’m looking to collaborate with other communities 
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak 3 languages ( English, French, Fula)
