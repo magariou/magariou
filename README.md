@@ -1,6 +1,7 @@
 ### Hello World, I'm Magariou  👋
 
  <img align="right" alt="PNG" src="https://icons8.com/illustrations/author/zD2oqC8lLBBA" width="500" height="320" />
+ Illustration by <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
